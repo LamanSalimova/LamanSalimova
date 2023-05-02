@@ -6,7 +6,7 @@
 
 <br/>
 
-### Front-end developer who builds responsive and adaptive websites or applications. Proficient in HTML CSS, JavaScript plus modern libraries and frameworks.Also worked withFigma and Adobe XD.
+### Front-end developer who builds responsive and adaptive websites or applications. Proficient in HTML CSS, JavaScript plus modern libraries and frameworks.Also worked with Figma and Adobe XD.
 
 <br/>
 
