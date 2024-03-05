@@ -10,9 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating and solving bugs, the perpetual coding adventure...<br>📚 Currently diving into the Jest testing library.<br>🎯 Goals: Master frontend development and work on an exciting project. - 💬 Ask me about **all the personal projects!**
-
-- 📫 Reach me: **lamansalimova9@gmail.com**
+<p align="left">✨ Creating and solving bugs, the perpetual coding adventure...<br>📚 Currently diving into the Jest testing library.<br>🎯 Goals: Master frontend development and work on an exciting project. <br> 💬 Ask me about **all the personal projects!** <br>📫 Reach me: **lamansalimova9@gmail.com**
 
 ###
 
